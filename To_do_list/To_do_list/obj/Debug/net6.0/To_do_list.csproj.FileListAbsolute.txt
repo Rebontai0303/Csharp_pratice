@@ -1,0 +1,15 @@
+C:\Users\yuton\source\repos\To_do_list\To_do_list\bin\Debug\net6.0\To_do_list.exe
+C:\Users\yuton\source\repos\To_do_list\To_do_list\bin\Debug\net6.0\To_do_list.deps.json
+C:\Users\yuton\source\repos\To_do_list\To_do_list\bin\Debug\net6.0\To_do_list.runtimeconfig.json
+C:\Users\yuton\source\repos\To_do_list\To_do_list\bin\Debug\net6.0\To_do_list.dll
+C:\Users\yuton\source\repos\To_do_list\To_do_list\bin\Debug\net6.0\To_do_list.pdb
+C:\Users\yuton\source\repos\To_do_list\To_do_list\obj\Debug\net6.0\To_do_list.csproj.AssemblyReference.cache
+C:\Users\yuton\source\repos\To_do_list\To_do_list\obj\Debug\net6.0\To_do_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuton\source\repos\To_do_list\To_do_list\obj\Debug\net6.0\To_do_list.AssemblyInfoInputs.cache
+C:\Users\yuton\source\repos\To_do_list\To_do_list\obj\Debug\net6.0\To_do_list.AssemblyInfo.cs
+C:\Users\yuton\source\repos\To_do_list\To_do_list\obj\Debug\net6.0\To_do_list.csproj.CoreCompileInputs.cache
+C:\Users\yuton\source\repos\To_do_list\To_do_list\obj\Debug\net6.0\To_do_list.dll
+C:\Users\yuton\source\repos\To_do_list\To_do_list\obj\Debug\net6.0\refint\To_do_list.dll
+C:\Users\yuton\source\repos\To_do_list\To_do_list\obj\Debug\net6.0\To_do_list.pdb
+C:\Users\yuton\source\repos\To_do_list\To_do_list\obj\Debug\net6.0\To_do_list.genruntimeconfig.cache
+C:\Users\yuton\source\repos\To_do_list\To_do_list\obj\Debug\net6.0\ref\To_do_list.dll
