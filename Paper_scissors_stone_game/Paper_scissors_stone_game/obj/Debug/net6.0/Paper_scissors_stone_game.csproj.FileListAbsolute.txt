@@ -1,0 +1,15 @@
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\bin\Debug\net6.0\Paper_scissors_stone_game.exe
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\bin\Debug\net6.0\Paper_scissors_stone_game.deps.json
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\bin\Debug\net6.0\Paper_scissors_stone_game.runtimeconfig.json
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\bin\Debug\net6.0\Paper_scissors_stone_game.dll
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\bin\Debug\net6.0\Paper_scissors_stone_game.pdb
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\obj\Debug\net6.0\Paper_scissors_stone_game.csproj.AssemblyReference.cache
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\obj\Debug\net6.0\Paper_scissors_stone_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\obj\Debug\net6.0\Paper_scissors_stone_game.AssemblyInfoInputs.cache
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\obj\Debug\net6.0\Paper_scissors_stone_game.AssemblyInfo.cs
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\obj\Debug\net6.0\Paper_scissors_stone_game.csproj.CoreCompileInputs.cache
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\obj\Debug\net6.0\Paper_scissors_stone_game.dll
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\obj\Debug\net6.0\refint\Paper_scissors_stone_game.dll
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\obj\Debug\net6.0\Paper_scissors_stone_game.pdb
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\obj\Debug\net6.0\Paper_scissors_stone_game.genruntimeconfig.cache
+C:\Users\yuton\source\repos\Rebontai0303\Paper_scissors_stone_game\Paper_scissors_stone_game\obj\Debug\net6.0\ref\Paper_scissors_stone_game.dll
